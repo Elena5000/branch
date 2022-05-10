@@ -1,0 +1,5 @@
+length=float(input("Введите длину прямоугольника: "))
+width=float(input("Введите ширину прямоугольника: "))
+area=(length*width)
+perimeter=((length+width)*2)
+print(f"Периметр = {perimeter} см Площадь = {area} см")
